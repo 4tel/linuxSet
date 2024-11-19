@@ -9,7 +9,7 @@ set pastetoggle=<F10>     " prevent pasting problem when copied from outside
 " file
 set encoding=utf-8 " default encoding
 set fileencodings=ucs-bom,utf-8,latin1 " encoding priority
-set nobackup      " not use backup file
+set backup      " keep a backup file
 
 " indent
 set ai          " auto indent
